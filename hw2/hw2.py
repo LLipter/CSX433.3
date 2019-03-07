@@ -66,5 +66,5 @@ print(C)
 B = np.array2string(B)
 print(B)
 
-# 15 Display a text on the screen: ‘Name is done with HW2‘, but pass your ‘Name’ as a string variable 
+# 15 Display a text on the screen: ‘Name is done with HW2‘, but pass your ‘Name’ as a string variable
 print(name, "is done with HW2")
